@@ -2,7 +2,9 @@
 
 Examples for deploy APIs using FastAPI with Python.
 
-- [Crea una API con Python en menos de 5 minutos con FastAPI](crea_api_python_en_5_min_fastapi/README.md).
+- [Crea una API con Python en menos de 5 minutos con FastAPI](crea_api_python_en_5_min_fastapi/README.md) - "In Spanish language".
+
+- [Curso de FastAPI - Platzi](curso_fastapi_platzi/README.md) - "In Spanish language".
 
 ## License
 
